@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.sicnu.mail.config.MailConfig,\
+org.springframework.boot.autoconfigure.mail.MailProperties
